@@ -1,0 +1,38 @@
+.fuera
+{
+    display:flex; 
+   justify-content: center;
+   align-content: center;
+   
+
+}
+
+
+.rojo
+{
+
+    background-color: darkmagenta;
+
+}
+
+.formula
+{
+
+    border: 130px;
+    width: 300px;
+    border-top: 130px;
+
+ 
+ 
+
+}
+.img{
+    background-color: darkgray;
+
+}
+
+
+.error
+{
+   background-color: gold;
+}

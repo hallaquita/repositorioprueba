@@ -1,0 +1,65 @@
+
+body{
+
+    background: linear-gradient(blue,red,green);
+
+}
+ .titulo{
+
+     text-align: center;
+ }
+
+
+
+.fuera{
+
+    display:flex; 
+    border: 130px;  
+    justify-content: center; 
+    align-items: center;
+
+   
+   
+ }
+ .fuera table{
+
+      
+     margin: 30px;
+ }
+ .colorVerde{
+ 
+     background-color: chartreuse;
+ 
+ }
+  
+ .colorRojo{
+ 
+     background-color: crimson;
+ }
+
+ .imprimir{
+
+    display:flex; 
+    border: 130px;   
+ }
+ .formulario{
+
+  display: flex;
+  flex-direction: column;
+  
+
+ }
+ .informacion{
+     
+    background-color: rgb(201, 233, 201);
+    width: 300px;
+    
+ }
+
+ h1{
+
+    text-align: center;
+    text-decoration: underline;
+   
+ }
+ 

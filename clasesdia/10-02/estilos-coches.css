@@ -1,0 +1,15 @@
+.coche{
+       
+       width: 100px;
+       height: 150px;
+       background-color: aqua;
+       border-style:solid;
+       border-color: rgb(13, 61, 61);
+       border-width: 50px;
+       padding: 200px;
+       text-align: justify;
+       align-items: center;
+      
+
+
+}

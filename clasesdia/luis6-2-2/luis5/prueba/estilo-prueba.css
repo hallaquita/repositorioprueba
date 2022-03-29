@@ -1,0 +1,156 @@
+.parrafo{
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+h1{
+    text-align: center;
+
+}
+
+
+tr{
+    width: 15px;
+    height: 15px;
+    border: 2px solid black;
+ 
+    
+}
+td{
+
+    width: 150px;
+    height: 150px;
+    border: 2px solid red;
+    
+}
+
+th{
+    border-width: 8px;
+    border-style: solid;
+    border-color: black;
+}
+
+
+.portada{
+
+    background-image:url(luchaportada.jpg);
+    background-repeat: no-repeat;
+   
+
+    
+
+}
+.fuera{
+    display: flex;
+    justify-content: center;
+}
+.imagen{
+      
+   
+    display: flex;
+    justify-content: center;
+}
+iframe{
+   
+    border-width: 10px;
+    border-style: solid;
+    border-color: brown;
+    margin: 50px;
+    margin-right:60px;
+    
+
+}
+.imagendentro{
+    border-width: 10px;
+    border-style: solid;
+    border-color: brown;
+    margin: 50px;
+    margin-right:60px ;
+    display: flex;
+}
+ form{
+    margin: 50px;
+    margin-right:60px; 
+    margin-bottom: 200px;   
+    display: block;
+    justify-content: left;
+
+ }
+ .menu{
+   
+        list-style:none;
+        display:flex;
+        margin-top: 100px;
+        margin-left: 230px;
+        border: 2px solid;
+        padding: 10px;;
+        background-color: rgb(237, 100, 225);
+        justify-content: center;
+    
+    
+    
+    
+    }
+
+    
+    .menuItem{
+
+
+       display:block;
+       padding: 15px;
+
+
+    }
+    .menuItem a{
+         text-decoration: none;
+         font-weight: bold;
+         color: black;
+
+
+    }
+ .historia{
+
+    font-size: 30px;
+    background-size: 100px  500px;
+    text-align: justify;
+    font-weight: bolder;
+    color: black;
+    margin-left: 30px;
+    margin-right: 35px;
+   
+
+
+
+
+ }  
+ 
+ .portada2{
+
+    
+    background-color: rgb(25, 175, 175);
+    background-repeat:no-repeat;
+    background-position:center ;
+    
+
+ }
+
+ .portada4{
+
+    background-color: rgb(222, 233, 233);
+    background-repeat:no-repeat;
+    background-position:center ;
+    
+
+ }
+
+ .imge img{
+
+
+    flex-wrap: nowrap;
+ }
+
+
+
+
+

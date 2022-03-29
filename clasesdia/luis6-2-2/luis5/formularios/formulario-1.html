@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta chaset="utf-8">
+        <meta name="keywords" content="pruebas">
+        <meta name="description" content=" prueba pagina web">
+        <meta name="author" content="LJR">
+    </head>
+             <body>
+               <title> formulario </title>
+               <h2>Formulario </h2>
+               <h3 tabindex="0"> Prueba formulario</h3><!--comentario -->
+               <form action="http://bytecluster.com/recibe.php" method="post">
+                  <p> Nombre </p>
+                  <input type="text" name="Nombre">
+                  <input type="submit" value="ENVIAR"> 
+               </form>
+
+                 <legend>Apellidos</legend>
+                <form action="http://bytecluster.com/recibe.php" method="POST">
+                    <fieldset>
+                        <p> Apellidos </p>
+                        <input type="text" name="Apellidos" value="Apellidos">
+                        <input type="submit" value="ENVIAR">
+                    </fieldset>
+                </form>        
+
+                <form action="http://bytecluster.com/recibe.php" method="POST">
+                    <fieldset>
+                        <p> Apellidos </p>
+                        <input type="text" name="Apellidos">
+                        <input type="submit" value="ENVIAR">
+                    </fieldset>
+                </form> 
+                
+                <form action="http://bytecluster.com/recibe.php" method="GET">
+                    <p> Tu mail </p>
+                    <input type="email" name="correo1">
+                    <input type="submit" value="ENVIAR"> 
+                 </form>
+
+                 <form action="http://bytecluster.com/recibe.php" method="POST">
+                    <p> Password </p>
+                    <a href="http://bytecluster.com/recibe.php" tabindex="1">primero</a>
+                    <input type="password" name="contrasena">
+                    <input type="submit" value="ENVIAR"> 
+                 </form>
+
+                 <form action="http://bytecluster.com/recibe.php" method="GET">
+                    <p> escoje una cifra </p>
+                    <a href="http://bytecluster.com/recibe.php" tabindex="3">tercero</a>
+                    <input type="number" min="1" max="5">
+                    <input type="submit" value="ENVIAR"> 
+                 </form>
+
+
+                 <form action="http://bytecluster.com/recibe.php" method="GET">
+                    <p> search </p>
+                    <input type="search" name="buscar">
+                    <input type="submit" value="ENVIAR"> 
+                 </form>
+
+
+
+                 <form action="http://bytecluster.com/recibe.php" method="GET">
+                    <p> Busca lo que quieras </p>
+                    <a href="http://bytecluster.com/recibe.php" tabindex="2">segundo</a>
+                    <input type="url" name="direccion" placeholder="escribe">
+                    <input type="submit" value="ENVIAR"> 
+                 </form>
+
+                 <form action="http://bytecluster.com/recibe.php" method="GET">
+                    <p> Introduce fecha </p>
+                    <input type="date" name="fecha">
+                    <input type="submit" value="ENVIAR"> 
+                 </form>
+
+                 <form action="http://bytecluster.com/recibe.php" method="GET">
+                    <p> escribe lo que quieras  </p>
+                    <textarea maxlength="30" minlength="10"  name="areadetexto"></textarea>
+                    <input type="submit" value="ENVIAR"> 
+                 </form>
+
+
+                 <form action="http://bytecluster.com/recibe.php" method="GET">
+                    <p> Hombre  </p>
+                    <input type="radio" name="sexo" value="Hombre">
+                    <p> Mujer  </p>
+                    <input type="radio" name="sexo" value="Mujer">
+                    <input type="submit" value="ENVIAR"> 
+                 </form>
+
+                 <form action="http://bytecluster.com/recibe.php" method="GET">
+                    <p> Hombre  </p>
+                    <input type="radio" name="sexo" value="Hombre" checked>
+                    <p> Mujer  </p>
+                    <input type="radio" name="sexo" value="Mujer">
+                    <input type="submit" value="ENVIAR"> 
+                 </form>
+
+                 <form action="http://bytecluster.com/recibe.php" method="GET">
+                    <p> quiero patatas   </p>
+                    <input type="checkbox" name="fritas" checked>
+                    <input type="submit" value="ENVIAR"> 
+                 </form>
+
+
+                 <form action="http://bytecluster.com/recibe.php" method="GET">
+                    <p> Seleciona un pais </p>
+                         <select name="selector">
+                            <option  selected disabled>Opciones</option>
+                             <option value="Europa" >Francia, Portugal,España</option>
+                             <option value="Sur america">Peru,Venezuela,Brasil</option>
+                             <option value="Norte america">USA,Mexico</option>
+                             <option value="Africa">El Congo,Ginea,Marruecos</option>
+                         </select>
+                    <input type="submit" value="ENVIAR"> 
+                 </form>
+
+
+                <form action="http://bytecluster.com/recibe.php" method="GET">
+                  <p> Introduce una palabra</p>
+                  <input type="text" name="Hola" required>
+                  <input type="submit" value="ENVIAR"> 
+               </form>
+
+               <form action="http://bytecluster.com/recibe.php" enctype="multipart/form-data" method="post" >
+                <p> Selecciona el fichero y adjuntar</p>
+                <input type="file" name="archivo" >
+                <input type="submit" value="ENVIAR"> 
+               </form>  
+
+               <form action="http://bytecluster.com/recibe.php" method="POST">
+                <p> introduce una palabra</p>
+                   <input type="text" name="palabra"><br>
+                   <input type="image" src="boton.png"
+                     width="100" height="50" name="boton">
+                                                      
+             </form>
+
+             <form action="http://bytecluster.com/recibe.php" method="POST">
+
+                <label for="Nombre">Nombre y Apellidos</label><br>
+                   <input type="text" name="nom" id="Nombre"><br>
+                   <input type="image" src="boton.png"
+                     width="100" height="50" name="boton">
+                                                      
+             </form>
+                
+             </body>
+
+
+
+</html>

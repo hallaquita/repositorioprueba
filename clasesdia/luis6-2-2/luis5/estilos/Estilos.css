@@ -1,0 +1,49 @@
+table {
+     background-color: aqua;
+
+}
+
+
+td {
+    width: 150px;
+    height: 150px;
+    border: 2px dotted red;
+}
+
+tr{
+    width: 100px;
+    padding-bottom: 20px;
+    padding: 15px;
+    color:blue;
+}
+caption {
+    width: 200px;
+    bottom: 50px;
+    top: 20px;
+    color:brown;
+    border-width: 3px;
+    border-style: solid;
+    border-color: blue;
+    background-color: wheat;
+
+}
+th{
+    border-width: 8px;
+    border-style: solid;
+    border-color: black;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-width: 50px;
+    border-style: solid;
+    border-color: brown;
+
+}
+caption{
+
+    border-width: 3px;
+    border-style: solid;
+    border-color: blue;
+    background-color: wheat;
+}

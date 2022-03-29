@@ -1,0 +1,1 @@
+a:3:{i:0;a:4:{i:0;s:3:"::1";i:1;s:4:"luis";i:2;s:16:"roja@hotmail.com";i:3;s:28:"dfbgsdfh sdtgh sthseth etywe";}i:1;a:5:{i:0;s:3:"::1";i:1;s:4:"kiho";i:2;s:16:"luis@hotmail.com";i:3;s:24:" hsrthy drh werh wrhj qw";i:4;s:17:"buzonDos/gato.jpg";}i:2;a:5:{i:0;s:3:"::1";i:1;s:4:"luis";i:2;s:14:"jose@gmail.com";i:3;s:19:"1122222222222222222";i:4;s:18:"buzonDos/pepsi.png";}}

@@ -1,0 +1,22 @@
+.num{
+
+    border-width: 10px;
+    width: 400px;
+    border-style: solid;
+    border-color: rgb(65, 42, 165);
+    margin: 10px;
+    margin-right:10px ;
+    display: block;
+    justify-content: left;
+    padding: 50px;
+
+
+
+}
+
+.fuera{
+
+ display: flex;
+ justify-content: center;
+
+}

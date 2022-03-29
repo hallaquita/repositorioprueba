@@ -1,0 +1,25 @@
+body{
+
+    background-image: url(buzon.jpg);
+    background-repeat: no-repeat;
+
+}
+form{
+      margin-left: 800px;
+
+}
+input{
+    
+    margin-top: 10px;
+
+}
+
+textarea{
+      
+    margin-top: 10px;
+   
+
+}
+h1{
+    text-align: center;
+}

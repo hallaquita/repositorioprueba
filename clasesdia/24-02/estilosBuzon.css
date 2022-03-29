@@ -1,0 +1,38 @@
+body{
+
+    background-image: url(buzon.jpg);
+    background-repeat: no-repeat;
+
+}
+.formularioUno{
+      margin-left: 800px;
+
+}
+input{
+    
+    margin-top: 10px;
+
+}
+
+textarea{
+      
+    margin-top: 10px;
+   
+
+}
+h1{
+    text-align: center;
+}
+
+.comentario{
+
+     background-color: lightblue;
+     padding-top: 10px;
+     margin-left: 700px;
+     margin-right: 400px;
+     margin-top: 15px;
+     margin-bottom: auto;
+     text-align: justify;
+     
+    
+}

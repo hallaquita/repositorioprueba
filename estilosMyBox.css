@@ -1,0 +1,29 @@
+body{
+
+    background-image: url(hojas3.jpg);
+    background-repeat: no-repeat;
+
+}
+
+
+h1{
+    margin-top: 100px;
+    text-align: center;
+  }
+
+
+ .formulario{
+         
+     text-align: center; 
+     display: block;
+    
+}
+
+ol{
+    
+    text-align: justify;
+    column-count: 3;
+}
+
+
+

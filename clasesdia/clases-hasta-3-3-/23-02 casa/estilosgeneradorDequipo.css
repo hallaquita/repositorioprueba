@@ -1,0 +1,69 @@
+.fuera{
+
+    
+     
+    background-color: rgb(140, 163, 240);
+
+}
+h1{
+     margin-top: 100px;
+    text-align: center;
+}
+.formularioUno{
+    background-color:deeppink;
+
+    margin-top:50px;
+    margin-left: 300px;
+    margin-right: 400px;
+    padding-left: 15px ;
+    padding-right: 20px ;
+    padding-bottom:15px; ;
+    padding-top: 20px;
+    text-align: center;
+
+
+}
+
+.formularioDos{
+
+    background-color:coral;
+
+    margin-top:250px;
+    margin-left: 300px;
+    margin-right: 400px;
+    padding-left: 15px ;
+    padding-right: 20px ;
+    padding-bottom:15px; ;
+    padding-top: 20px;
+    text-align: center;
+
+}
+
+
+.formularioTres{
+
+    background-color:rgb(80, 255, 153);
+
+    margin-top:250px;
+    margin-left: 300px;
+    margin-right: 400px;
+    padding-left: 15px ;
+    padding-right: 20px ;
+    padding-bottom:15px; ;
+    padding-top: 20px;
+    text-align: center;
+
+
+
+
+}
+ ol{
+   margin-right: 300px;
+   text-align:left;
+   padding-left: 550px;
+   column-count:2;
+   
+
+}
+
+

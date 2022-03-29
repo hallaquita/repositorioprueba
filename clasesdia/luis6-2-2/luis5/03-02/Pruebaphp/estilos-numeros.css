@@ -1,0 +1,29 @@
+.num{
+
+    border-width: 30px;
+    width: 100px;
+    border-style: solid;
+    border-color: rgb(65, 42, 165);
+    margin: 10px;
+    margin-right:10px ;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+
+
+
+}
+
+.fuera{
+
+ display: flex;
+ justify-content: center;
+
+}
+
+.tabla{
+
+    border-width: 30px;
+    
+
+}

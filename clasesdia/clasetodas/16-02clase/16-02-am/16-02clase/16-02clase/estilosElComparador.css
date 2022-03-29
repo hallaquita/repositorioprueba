@@ -1,0 +1,20 @@
+.fuera{
+
+    display:flex; 
+    border: 130px;   
+   
+ }
+ .fuera table{
+ 
+     margin: 30px;
+ }
+ .colorVerde{
+ 
+     background-color: chartreuse;
+ 
+ }
+  
+ .colorRojo{
+ 
+     background-color: crimson;
+ }

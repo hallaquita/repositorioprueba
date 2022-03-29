@@ -1,0 +1,64 @@
+
+
+
+.fuera
+{
+    display:flex; 
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 240px;
+    padding-left: 30px;
+     
+
+}
+body{
+   
+    background-image: url(coca.jpg);
+    background-repeat: no-repeat;
+   
+     background-position: center center;  
+   
+        
+   
+
+}
+
+.rojo
+{
+
+    background-color: darkmagenta;
+
+}
+
+.formula a
+{
+
+   background-color: indianred;
+   border-top: 25px;
+ 
+ 
+
+}
+.img{
+
+
+    margin-left: 50px;
+    margin-right: 1200px;
+    text-align: 50px;
+    
+    
+} 
+
+
+.error h1
+{
+   text-align: center;
+   padding-bottom: 300px;
+}
+.titulo{
+
+   text-align: center;
+
+}
